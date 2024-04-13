@@ -29,7 +29,7 @@ public class IntList {
       IntNode tempPtr = head;
       
       while(tempPtr != null) {
-        System.out.println(tempPtr.getValue());
+        System.out.print(tempPtr.getValue() + "  ");
         tempPtr = tempPtr.getNext();
       }
     }
