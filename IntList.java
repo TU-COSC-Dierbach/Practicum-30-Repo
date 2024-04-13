@@ -13,7 +13,7 @@ public class IntList {
 
   // ** TO COMPLETE **
   public void append(int new_value) {
-    // Check if list empty
+    // Check if list empty. If so, make first node.
 
     
     // if not empty, search for last node and append
