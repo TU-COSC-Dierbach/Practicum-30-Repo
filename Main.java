@@ -1,4 +1,4 @@
-// Test Driver for Append Method of Instlist Class
+// Test Driver for Append Method of Intlist Class
 class Main {
   public static void main(String[] args) {
     
