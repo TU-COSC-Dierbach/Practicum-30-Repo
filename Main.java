@@ -1,5 +1,5 @@
 // Test Driver for Append Method of Intlist Class
-class Main {
+public class Main {
   public static void main(String[] args) {
     
     // Create a new, empty linked list
